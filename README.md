@@ -1,6 +1,14 @@
 # lphysicsfs
 LuaJIT FFI bindings for PhysicsFS
 
+## Install
+
+### macOS
+
+```bash
+brew install physfs
+```
+
 ## License
 
 The MIT License
