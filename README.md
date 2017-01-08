@@ -2,15 +2,12 @@
 LuaJIT FFI bindings for PhysicsFS
 
 ## Install
-
 ### macOS
-
 ```bash
 brew install physfs
 ```
 
 ## License
-
 The MIT License
 
 Copyright (c) 2017 Planimeter. http://planimeter.org
